@@ -1,0 +1,7 @@
+ollama
+gradio
+langchain
+chromadb
+langdetect
+tqdm
+langchain_community
